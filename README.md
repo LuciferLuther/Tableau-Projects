@@ -6,5 +6,8 @@ Have Fun 😊.
 
 
 ## Projects 🧑🏻‍💻
-- Movie's Dashboard & Story 
+- Movie's Sales & Score Analysis
  <img src="Movie Dashboard.png"/>
+
+- Asylum Seekers Analysis
+ <img src="Asylum Dashboard.png"/>
