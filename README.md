@@ -11,3 +11,6 @@ Have Fun 😊.
 
 - Asylum Seekers Analysis
  <img src="Asylum Dashboard.png"/>
+
+- World Cup Analysis
+ <img src="World Cup Dashboard.png"/>
