@@ -7,13 +7,13 @@ Have Fun 😊.
 
 ## Projects 🧑🏻‍💻
 - Movie's Sales & Score Analysis
- <img src="Youtube US Story.png"/>
+ <img src="Images/Youtube US Story.png"/>
  
 - Movie's Sales & Score Analysis
- <img src="Movie Dashboard.png"/>
+ <img src="Images/Movie Dashboard.png"/>
 
 - Asylum Seekers Analysis
- <img src="Asylum Dashboard.png"/>
+ <img src="Images/Asylum Dashboard.png"/>
 
 - World Cup Analysis
- <img src="World Cup Dashboard.png"/>
+ <img src="Images/World Cup Dashboard.png"/>
