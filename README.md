@@ -6,7 +6,7 @@ Have Fun 😊.
 
 
 ## Projects 🧑🏻‍💻
-- Movie's Sales & Score Analysis
+- Youtube Statistical Analysis
  <img src="Images/Youtube US Story.png"/>
  
 - Movie's Sales & Score Analysis
