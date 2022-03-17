@@ -6,14 +6,14 @@ Have Fun 😊.
 
 
 ## Projects 🧑🏻‍💻
-- Youtube Statistical Insights
+- **Youtube Statistical Insights**
  <img src="Images/Youtube US Story.png"/>
  
-- Movie's Sales & Score Analysis
+- **Movie's Sales & Score Analysis**
  <img src="Images/Movie Dashboard.png"/>
 
-- Asylum Seekers Analysis
+- **Asylum Seekers Analysis**
  <img src="Images/Asylum Dashboard.png"/>
 
-- World Cup Analysis
+- **World Cup Analysis**
  <img src="Images/World Cup Dashboard.png"/>
