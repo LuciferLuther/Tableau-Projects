@@ -7,6 +7,9 @@ Have Fun 😊.
 
 ## Projects 🧑🏻‍💻
 - Movie's Sales & Score Analysis
+ <img src="Youtube US Story.png"/>
+ 
+- Movie's Sales & Score Analysis
  <img src="Movie Dashboard.png"/>
 
 - Asylum Seekers Analysis
